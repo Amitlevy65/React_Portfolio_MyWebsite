@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React_Portfolio_MyWebsite/static/css/main.b051f08b.css",
-    "main.js": "/React_Portfolio_MyWebsite/static/js/main.e390b3a9.js",
+    "main.js": "/React_Portfolio_MyWebsite/static/js/main.77f9f296.js",
     "static/media/logo.png": "/React_Portfolio_MyWebsite/static/media/logo.4007511f1f2241a7fb73.png",
-    "static/media/Amit Levy.pdf": "/React_Portfolio_MyWebsite/static/media/Amit Levy.4dcbd8deab4d3637a4ef.pdf",
+    "static/media/Amit Levy.pdf": "/React_Portfolio_MyWebsite/static/media/Amit Levy.6ba96720da1699cd6384.pdf",
     "index.html": "/React_Portfolio_MyWebsite/index.html",
     "main.b051f08b.css.map": "/React_Portfolio_MyWebsite/static/css/main.b051f08b.css.map",
-    "main.e390b3a9.js.map": "/React_Portfolio_MyWebsite/static/js/main.e390b3a9.js.map"
+    "main.77f9f296.js.map": "/React_Portfolio_MyWebsite/static/js/main.77f9f296.js.map"
   },
   "entrypoints": [
     "static/css/main.b051f08b.css",
-    "static/js/main.e390b3a9.js"
+    "static/js/main.77f9f296.js"
   ]
 }
